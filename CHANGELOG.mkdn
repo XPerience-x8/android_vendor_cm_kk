@@ -8,7 +8,8 @@ Changelog
 15/12/2013
 
 [*] Fixed some thumb problems
-[*] sensorservice: Fix init sequence for pre-1.1 API sensor HALs
+[*] SensorService: Fix init sequence for pre-1.1 API Sensor HALS
+[*] Libstagefright: Delay release of wakelock
 
 
 
