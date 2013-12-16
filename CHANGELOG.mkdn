@@ -7,18 +7,7 @@ Changelog
 
 15/12/2013
 
-[*] fixed some thumb problems
-[*] Not compile again :(
-[*] sensorservice: Fix init sequence for pre-1.1 API sensor HALs
-[*] libstagefright: Delay release of wakelock 
-[*] Browser: fix pie crash 
-[*] Rollback Bluetooth changes for now.
-[*] National roaming info for yesss! in Austria
-[*]Unbreak the public API again... 
-[*] audio: fix offload enabling test parameter
-[*] New AK8975 sensors
-[*] proper configs for Shakira
-[*] CameraHAL fixed
+[*] Fixed some thumb problems
 
 
 
