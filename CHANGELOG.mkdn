@@ -8,6 +8,7 @@ Changelog
 15/12/2013
 
 [*] Fixed some thumb problems
+[*] sensorservice: Fix init sequence for pre-1.1 API sensor HALs
 
 
 
