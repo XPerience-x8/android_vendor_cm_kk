@@ -20,7 +20,15 @@ XPerience
  * CameraHAL fixed
  
  
- 
+ 08/03/2014
+
+ * updated to latest 4.4.2_r2
+ * Fixed some issues with overlays
+ * add msm_ion.h file missin
+ * use 2.6.32.61-nAa-06 kernel source from NobodyAtall
+ * fixed issue on compilage with libstagefright
+ * Fixes for arm11 and optimizations.
+ * added Trebuchet (based on Launcher 3 ) and support icon packs
  
  
 CyanogenMod
